@@ -1,5 +1,7 @@
 import tkinter as tk
-
+#Calculator Apps
+#Python
+#Update GitHub
 LARGE_FONT_STYLE = ("Arial", 40, "bold")
 SMALL_FONT_STYLE = ("Arial", 16)
 DIGITS_FONT_STYLE = ("Arial", 24, "bold")
